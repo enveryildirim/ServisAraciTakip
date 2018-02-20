@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2013\Projects\ServisTakip42\ServisTakip42\bin\Debug\ServisTakip42.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\obj\Debug\ServisTakip42.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\obj\Debug\ServisTakip42.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\obj\Debug\ServisTakip42.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\bin\Debug\ServisTakip42.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\bin\Debug\ServisTakip42.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\obj\Debug\ServisTakip42.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\obj\Debug\ServisTakip42.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\obj\Debug\ServisTakip42.AnaForm.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\obj\Debug\ServisTakip42.AracForm.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\ServisTakip42\ServisTakip42\obj\Debug\ServisTakip42.KayitForm.resources
